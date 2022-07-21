@@ -1,0 +1,19 @@
+#include<iostream>
+using namespace std;
+
+class GPH
+{
+     public:
+        void display()
+        {
+        cout<<"Welcome to C++ Programming World";
+        
+        
+        }
+};
+int main()
+{
+        GPH C;
+        C.display();
+        return 0;
+}
